@@ -213,6 +213,7 @@ shape="rect">
 
 ## OUTPUT
 ![Alt text](<bigil/mapapp/static/MAP SS.png>)
+![image](https://github.com/PrakashG-2002/NearMe/assets/144507749/7e6d1c45-a5ba-4d8e-b80b-9eb871269c25)
 ![image](https://github.com/PrakashG-2002/NearMe/assets/144507749/b9f662ce-580e-46f4-b85b-523e909b1138)
 ![image](https://github.com/PrakashG-2002/NearMe/assets/144507749/36d673ec-9e63-4ad7-bb24-0da37a8317fa)
 ![image](https://github.com/PrakashG-2002/NearMe/assets/144507749/f326c05b-0ccd-45ad-adbc-75db21d7479b)
